@@ -29,37 +29,7 @@
         }
       ]
     },
-    
-    {
-      "id": 432,
-      "num": "432",
-      "name": "Purugly",
-      "img": "https://www.serebii.net/pokemongo/pokemon/432.png",
-      "type": [
-        "Normal"
-      ],
-      "height": "1 m",
-      "weight": "43.8 kg",
-      "candy": "Purugly Candy",
-      "candy_count": 50,
-      "egg": "Not in Eggs",
-      "spawn_chance": 0.042,
-      "avg_spawns": 4.2,
-      "spawn_time": "07:00",
-      "multipliers": [
-        1.2,
-        1.6
-      ],
-      "weaknesses": [
-        "Fight"
-      ],
-      "prev_evolution": [
-      {
-        "num": "431",
-        "name": "Glameow"
-      }
-     ]
-    },
+
     {
       "id": 433,
       "num": "433",
@@ -379,8 +349,8 @@
       ],
       "next_evolution": [
         {
-        "num": "p",
-        "name": "p"}
+        "num": "0",
+        "name": " This is the final evolution"}
       ]
     },
     {
