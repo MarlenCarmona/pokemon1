@@ -154,37 +154,7 @@
       }
      ]
     },
-    {
-      "id": 435,
-      "num": "435",
-      "name": "Skuntank",
-      "img": "https://www.serebii.net/pokemongo/pokemon/435.png",
-      "type": [
-        "Poison",
-        "Sinister"
-      ],
-      "height": "1.0 m",
-      "weight": "38.0 kg",
-      "candy": "Skuntank Candy",
-      "candy_count": 50,
-      "egg": "Not in Eggs",
-      "spawn_chance": 0.042,
-      "avg_spawns": 4.2,
-      "spawn_time": "07:00",
-      "multipliers": [
-        1.2,
-        1.6
-      ],
-      "weaknesses": [
-        "Land"
-      ],
-      "next_evolution": [
-        {
-        "num": "0",
-        "name": "This is the final evolution"
-      }
-     ]
-    },
+
     {
       "id": 436,
       "num": "436",
@@ -319,40 +289,7 @@
       }
      ]
     },
-    {
-      "id": 438,
-      "num": "438",
-      "name": "Bonsly",
-      "img": "https://www.serebii.net/pokemongo/pokemon/438.png",
-      "type": [
-        "Rock"
-      ],
-      "height": "0.5 m",
-      "weight": "15 kg",
-      "candy": "Bonsly Candy",
-      "candy_count": 50,
-      "egg": "Not in Eggs",
-      "spawn_chance": 0.042,
-      "avg_spawns": 4.2,
-      "spawn_time": "07:00",
-      "multipliers": [
-        1.2,
-        1.6
-      ],
-      "weaknesses": [
-        "Fight",
-        "Plant",
-        "Ground",
-        "Steel",
-        "Water"
-      ],
-      "next_evolution": [
-        {
-        "num": "185",
-        "name": "Sudowoodo"
-      }
-     ]
-    },
+
     {
       "id": 440,
       "num": "440",
